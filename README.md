@@ -1,7 +1,7 @@
 <h1 align="center"> 🎨 Microsoft Bliss Theme for Windows 11 😄</h1>
 
 <p align="center">
-    <img src="./_src/theme.png">
+    <img src="./_src/themes.png">
 </p>
 
 <p align="center">
